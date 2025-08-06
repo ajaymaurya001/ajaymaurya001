@@ -20,11 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaymaurya001&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](http://ajay-maurya.workspaceevents.com/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~YOUR_UPWORK_ID](https://www.upwork.com/freelancers/~0154d9bb65b366771c?mp_source=share))

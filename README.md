@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋  
 
-<!--
-**ajaymaurya001/ajaymaurya001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **WordPress Developer | PHP Developer**  
+🔧 3 years of experience building custom themes, plugins, and high-performance web apps.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔹 Passionate about crafting clean, scalable code  
+- 🔹 Love solving complex problems with simple solutions  
+- 🔹 Currently exploring advanced PHP patterns & GitHub workflows  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** PHP, JavaScript, HTML5, CSS3  
+- **Frameworks / CMS:** WordPress, Laravel (basics)  
+- **Tools:** Git, GitHub, Composer, npm  
+- **Database:** MySQL  
+
+---
+
+## 📊 GitHub Stats
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaymaurya001&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](http://ajay-maurya.workspaceevents.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~YOUR_UPWORK_ID](https://www.upwork.com/freelancers/~0154d9bb65b366771c?mp_source=share))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajay-maurya-developer-890875217/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)]([https://www.fiverr.com/YOUR_FIVERR_USERNAME](https://www.fiverr.com/s/WEr2b0d))     
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:websolutions.ajay@gmail.com)  
+
+---
+
+⭐ _"Code is like humor. When you have to explain it, it’s bad."_  

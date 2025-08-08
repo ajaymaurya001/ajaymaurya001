@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 - **Languages:** PHP, SQL, JavaScript, HTML5, CSS3  
 - **Frameworks / CMS:** WordPress, Bootstrap, Laravel (basics)  
-- **Tools:** Git, GitHub, Composer, npm, VS Code, Postman  
+- **Tools:** Git, GitHub, Composer, npm, VS Code, Postman 
 - **Database:** MySQL
 
 ---

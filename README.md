@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 - **Languages:** PHP, SQL, JavaScript, HTML5, CSS3  
 - **Frameworks / CMS:** WordPress, Bootstrap, Laravel (basics)  
 - **Tools:** Git, GitHub, Composer, npm, VS Code, Postman 
